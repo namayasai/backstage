@@ -233,5 +233,18 @@
     "@backstage/plugin-user-settings-backend": "0.4.7",
     "@backstage/plugin-user-settings-common": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "bright-owls-bind",
+    "calm-provider-batches",
+    "config-number-empty-string",
+    "create-app-1789801730",
+    "fair-catalog-projections",
+    "fix-connection-auth-union",
+    "fix-processor-error-names",
+    "incremental-ingestion-mark-entities-upsert",
+    "nine-pandas-dig",
+    "techdocs-feedback-link-config",
+    "test-database-parallel-cleanup",
+    "tidy-patches-smile"
+  ]
 }
